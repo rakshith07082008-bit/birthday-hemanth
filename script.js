@@ -4,7 +4,7 @@ setTimeout(() => {
 }, 3000);
 
 // Birthday Date
-const birthday = new Date().getTime() - 1000;
+const birthday = new Date("2026-07-31T10:00:00+05:30").getTime();
 
 const countdownPage = document.getElementById("countdown-page");
 const birthdayPage = document.getElementById("birthday-page");
