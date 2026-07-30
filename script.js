@@ -138,7 +138,7 @@ window.onload = () => {
 
     setTimeout(() => {
 
-        alert("🎉 Welcome to Hemanth's Birthday Surprise! 🎂");
+        //alert("🎉 Welcome to Hemanth's Birthday Surprise! 🎂");
 
     }, 3500);
 
