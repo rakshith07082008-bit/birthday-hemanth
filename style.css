@@ -11,7 +11,7 @@ radial-gradient(circle at left,#3d9cff 0%,#14324f 35%,transparent 60%),
 radial-gradient(circle at right,#8b1d2c 0%,#33060f 35%,transparent 60%),
 linear-gradient(135deg,#081018,#180912);
 min-height:100vh;
-overflow:hidden;
+overflow-y: auto;
 color:#fff;
 }
 
